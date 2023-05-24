@@ -6,7 +6,7 @@ const powerUpBox = document.querySelector(".powerup-box");
 const SPS = document.querySelector(".sps");
 
 
-let strawberries = 100000000;
+let strawberries = 0;
 export let clickAmount = 1;
 export let currentTotem = 0;
 export let aDuration = 1000;
